@@ -13,3 +13,11 @@ Script to setup OSX with the things I need
 ### Homebrew
 
 <https://brew.sh>
+
+### Bash
+
+### MacVim
+
+### Git
+
+### Firefox
